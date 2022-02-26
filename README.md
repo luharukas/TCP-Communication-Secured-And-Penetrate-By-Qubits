@@ -5,8 +5,12 @@ Quantum Computing, one of the trending and futuristic technology is common choic
 
 #### Pseudo Code:
 **Step 1:** - Make connection between server and client.
+
 **Step 2:** - While making connection Quantum circuit find two prime number, and follow RSA cryptography algorithm to encrypt it.
+
 **Step 3:** - If client receive a message, it is then decrypted by Shor algorithm.
+
 **Step 4:** - Later messages will be displayed on the client screen
+
 **Step 5:** - Appropriate message will be displayed if any client leave the server or interruption occur.
 
